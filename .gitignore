@@ -57,3 +57,12 @@ dkms.conf
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Build output
+build/
+
+# Editor config
+.vscode/
+
+# Compiled binaries without an extension
+a.out
